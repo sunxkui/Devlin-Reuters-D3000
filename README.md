@@ -35,6 +35,6 @@ Devlin  Keyboard  For Thomson Reuters
 ------------------------------------------------------
 
 Keyboard-----PIN3/PIN4/PIN10/PIN11
-Keypad-------PIN5/PIN6/PIN12/PIN13
+KEYPAD -------PIN5/PIN6/PIN12/PIN13
 Mouse--------PIN7/PIN8/PIN14/PIN15
 The main control has an IC LTC1386CS, serial transceiver, specifically unknown。    Connect three IO-----PIN1/PIN2/PIN3
