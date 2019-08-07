@@ -1,4 +1,4 @@
-# Devlin-Reuyers-D3000
+# Devlin-Reuters-D3000
 Devlin  Keyboard  For Thomson Reuters
 -----------------------------------------------------
 |DB15  male	  |             |                        |
